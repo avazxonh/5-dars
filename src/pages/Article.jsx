@@ -87,7 +87,7 @@ function Article() {
             <div>
               <img
                 className="olmos_img"
-                src="./public/two_olmos_img.png"
+                src="./two_olmos_img.png"
                 alt=""
                 width={393}
                 height={338}
